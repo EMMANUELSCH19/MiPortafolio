@@ -1,5 +1,5 @@
 document.getElementById("btn-menu").addEventListener("click", open_close_menu);
-document.getElementById("btn-menu").addEventListener("click", fix);
+// document.getElementById("btn-menu").addEventListener("click", fix);
 
 const nav = document.querySelector('body');
 const menu = document.getElementById("menu");
@@ -10,6 +10,6 @@ function open_close_menu(){
     menu.classList.toggle('show');
 }
 
-function fix(){
-    nav.classList.toggle('show-nav');
-}
+// function fix(){
+//     nav.classList.toggle('show-nav');
+// }
