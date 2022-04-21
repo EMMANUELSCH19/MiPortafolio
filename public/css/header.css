@@ -142,5 +142,6 @@ ul{
 
     .show-nav{
         position: fixed;
+        width: 100%;
     }
 }
