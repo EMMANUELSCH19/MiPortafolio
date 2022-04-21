@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/header.css">
 </head>
 
-<body>
+<body id="body">
     <header>
         <nav>
             <ul>
@@ -29,4 +29,6 @@
 </body>
 
 <script src="js/header.js"></script>
+<script src="https://kit.fontawesome.com/b80c0a651a.js" crossorigin="anonymous"></script>
+
 </html>

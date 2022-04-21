@@ -85,6 +85,10 @@ ul{
         overflow-x: hidden;
     }
 
+    ul{
+        display: grid;
+    }
+
     .menu{
         background: var(--background);
         width: 100%;
@@ -132,5 +136,11 @@ ul{
         visibility: visible;
         transition: all .3s;
         height: calc(100% - 50px);
+        overflow-y: lock;
+        position: fixed;
+    }
+
+    .show-nav{
+        position: fixed;
     }
 }
