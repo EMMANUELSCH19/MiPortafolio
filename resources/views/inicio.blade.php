@@ -51,14 +51,6 @@
                         CSS
                     </div>
                 </div>
-                <div class="skill">
-                    <div class="skill-icon">
-                        <img src="svg/LOGO_PORTAFOLIO.svg" alt="css">
-                    </div>
-                    <div class="skill-txt">
-                        JS
-                    </div>
-                </div>
             </div>
         </div>
 

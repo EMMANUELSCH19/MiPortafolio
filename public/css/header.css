@@ -3,6 +3,17 @@
     padding: 0;
 }
 
+::-webkit-scrollbar {
+    width: 8px;
+    background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--principal_color);
+    border: solid 2px var(--background);
+    border-radius: 5px;
+}
+
 body{
     font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

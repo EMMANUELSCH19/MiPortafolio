@@ -11,7 +11,7 @@
 <body>
     <div class="footer">
         <div class="footer-content">
-            Derechos de Autor
+            Derechos Emmanuel Santoyo Chagolla &copy; 2022
         </div>
     </div>
 </body>
