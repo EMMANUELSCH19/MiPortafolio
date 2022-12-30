@@ -8,6 +8,7 @@
     <title>Inicio</title>
     <link rel="stylesheet" href="css/inicio.css">
     <link rel="stylesheet" href="css/var.css">
+    <link rel="shortcut icon" href="svg/LOGO_PORTAFOLIO.svg" type="image/x-icon">
 </head>
 
 <body>
@@ -37,7 +38,7 @@
             <div class="container-icons-skills">
                 <div class="skill">
                     <div class="skill-icon">
-                        <img src="img/html.png" alt="html">
+                        <img src="img/skill/html-5.png" alt="html">
                     </div>
                     <div class="skill-txt">
                         HTML
@@ -45,17 +46,33 @@
                 </div>
                 <div class="skill">
                     <div class="skill-icon">
-                        <img src="img/css.png" alt="css">
+                        <img src="img/skill/css-3.png" alt="css">
                     </div>
                     <div class="skill-txt">
                         CSS
                     </div>
+                </div>   
+                <div class="skill">
+                    <div class="skill-icon">
+                        <img src="img/skill/bootstrap.png" alt="css">
+                    </div>
+                    <div class="skill-txt">
+                        Bootstrap
+                    </div>
                 </div>
+                <div class="skill">
+                    <div class="skill-icon">
+                        <img src="img/skill/laravel.png" alt="css">
+                    </div>
+                    <div class="skill-txt">
+                        Laravel
+                    </div>
+                </div>                   
             </div>
         </div>
 
         <div id="works" class="container-works">
-            <div class="title">
+            <!-- <div class="title">
                 Trabajos
             </div>
             <div class="container-info">
@@ -83,7 +100,7 @@
                         Se entrego un sistema bancario que calcula entre otras cosas, el saldo de una cuenta bancaria, el interes al abrir una cuenta, transacciones realizadas entre cuentas, etc.
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </main>
 

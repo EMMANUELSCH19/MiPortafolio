@@ -1,4 +1,8 @@
 :root{
-    --background: #1D1D1B;
     --principal_color: springgreen;
+    --dark-color: #2b2d36;
+    --bg-dark: #1b1b1d;
+    --bg-light: linear-gradient(60deg, #eaeaea 0%, #868492 100%);
+    --bg-light2: linear-gradient(60deg, springgreen 0%, rgb(0, 133, 66) 100%);
+    --shadow-card: #272c44;
 }
