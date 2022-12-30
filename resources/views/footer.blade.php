@@ -11,7 +11,7 @@
 <body>
     <div class="footer">
         <div class="footer-content">
-            Derechos Emmanuel Santoyo Chagolla &copy; 2022
+            Derechos Emmanuel Santoyo Chagolla &copy; 2023
         </div>
     </div>
 </body>
